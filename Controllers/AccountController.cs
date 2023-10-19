@@ -1,11 +1,11 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PrimerTPconJS.Models;
+using TPLogin.Models;
 using log.Models;
-using PrimerProyecto.Models;
-using PrimerTPconJS.Controllers;
+using TPLogin.Models;
+using TPLogin.Controllers;
 
-namespace PrimerTPconJS.Controllers;
+namespace TPLogin.Controllers;
 
 public class AccountController : Controller
 {
