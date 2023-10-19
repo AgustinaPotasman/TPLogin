@@ -5,7 +5,7 @@ using System.Linq;
 using Dapper;
 using log.Models;
 
-namespace PrimerProyecto.Models
+namespace TPLogin.Models
 {
     public static class BD
     {
